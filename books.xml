@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<?xml-stylesheet href="books.css"?>
+<libro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/josee/OneDrive/Escritorio/xampp/htdocs/Cenec/Lenguaje%20de%20marcas/ejercicio.XML/books.xsd">
+	
+<obra>
+  <titulo>Obra: Everyday Italian</titulo>
+  <año>Año: 2005</año>
+  <precio>Precio: 29.99€</precio>
+</obra>
+
+<obra>
+  <titulo>Obra: Harry Potter</titulo>
+  <año>Año: 2005</año>
+  <precio>Precio: 29.99€</precio>
+</obra>
+
+<obra>
+  <titulo>Obra: XQuery Kick Start</titulo>
+  <año>Año: 2003</año>
+  <precio>Precio: 49.99€</precio>
+</obra>
+
+<obra>
+  <titulo lang="en">Obra: Learning XML</titulo>
+  <año>Año: 2003</año>
+  <precio>Precio: 39.95€</precio>
+</obra>
+
+</libro>
