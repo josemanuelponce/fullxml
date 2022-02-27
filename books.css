@@ -1,9 +1,10 @@
 * {
     display: block;
 }
-titulo {
-    color: aqua;
+p {
+    color:blue;
 }
-año {
-    color:blueviolet;
+span {
+    background-color: yellow;
+    color: black;
 }
