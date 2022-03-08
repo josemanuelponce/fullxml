@@ -10,7 +10,7 @@
     	</body>
 		</html>
 	</xsl:template>
-	<xsl:template match="libro">
+	<xsl:template match="book">
 		<h2>
 			OBRA:
 			<xsl:value-of select="title"/>
